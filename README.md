@@ -26,7 +26,7 @@ Réaliser des tests d’intégration entre modules, avec base de données simul�
 
 ---
 
-## 🛠 Changements
+## Changements
 
 - Aucune erreur détectée dans la logique des classes proposées.
 - Tous les tests sont ajoutés avec `Mockito` + `JUnit 5`.
